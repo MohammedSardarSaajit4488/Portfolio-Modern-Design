@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website to showcase my skills, projects, internships, and certifications as a Computer Science & Data Science student.
 
-![Portfolio Screenshot](./assets/images/portfolio-screenshot.png)
+![Portfolio Screenshot](https://github.com/MohammedSardarSaajit4488/Portfolio-Modern-Design/blob/main/pic.png?raw=true)
 
 ---
 
