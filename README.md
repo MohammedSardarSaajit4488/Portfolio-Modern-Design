@@ -32,11 +32,7 @@ This is a responsive and interactive developer portfolio built with HTML, CSS, a
 - **Ionicons**  
 - **Responsive Design Principles**
 
----
 
-## 🖼️ Screenshots
-
-![Main Portfolio](./assets/images/portfolio-screenshot.png)
 
 ---
 
